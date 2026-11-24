@@ -1,0 +1,11 @@
+node_modules
+.next
+src/generated
+prisma/migrations
+package-lock.json
+playwright-report
+test-results
+.agents
+.windsurf
+.claude
+skills-lock.json
